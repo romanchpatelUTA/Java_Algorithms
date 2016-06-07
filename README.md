@@ -1,4 +1,3 @@
-### It includes algorithms performed by me in Java language.
+It includes algorithms performed by me using JAVA.
 
-
-# Java_Algorithms
+Language: JAVA
